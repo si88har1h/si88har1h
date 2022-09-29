@@ -4,7 +4,7 @@
 
 
 ### 💫 About Me:
-I am a front-end dev looking to create the most awesome and eye pleasing designs. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love coffee and love making things 😁
+I am a front-end dev looking to create the most awesome and eye pleasing designs. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love coffee and  creating things 😁
 
 
 ## 🌐 Socials:
