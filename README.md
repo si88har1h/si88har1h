@@ -26,3 +26,5 @@ I am a front-end dev looking to create the most awesome and eye pleasing designs
 ![](https://github-readme-streak-stats.herokuapp.com/?user=si88har1h&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=si88har1h&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![@si88har1h's Holopin board](https://holopin.io/api/user/board?user=si88har1h)
+
