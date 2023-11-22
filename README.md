@@ -4,7 +4,7 @@
 
 
 ### 💫 About Me:
-I am a front-end dev looking to create the most awesome and eye pleasing designs. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love coffee and  creating things 😁
+Hi there! I'm Siddharth, a motivated Software Engineer with a month of professional experience and over six months of enriching internships. Proficient in technologies like ReactJS, PostgreSQL, and Flutter, I'm passionate about leveraging technology to propel businesses forward. I thrive on challenges and have a keen interest in learning how to strategically use technology to scale businesses. Excited about the dynamic world of software development, I bring a fresh perspective and a commitment to continuous learning.
 
 
 ## 🌐 Socials:
