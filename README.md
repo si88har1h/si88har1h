@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddharth-mehta-2a9a30213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddharth@streetstylestore.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://globalprinters.in"><img src="https://img.shields.io/badge/Side%20Project-Global%20Printers-1f6feb?style=flat-square" /></a>
+  <a href="mailto:siddharthmehta.2301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
