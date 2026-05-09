@@ -30,7 +30,7 @@ Tech lead @ [Street Style Store](https://streetstylestore.com) — one of India'
 
 ## 🧠 Currently exploring
 
-- **Rust** — ownership, borrowing, systems-level thinking → see [`feedforge`](https://github.com/si88har1h/feedforge)
+- **Rust** — ownership, borrowing, systems-level thinking → see [`pinterest-scraper-rs`](https://github.com/si88har1h/pinterest-scraper-rs)
 - Self-hosted LLMs — fine-tuning + RAG on domain data
 - Agentic dev workflows with Claude Code + MCP
 
@@ -39,7 +39,7 @@ Tech lead @ [Street Style Store](https://streetstylestore.com) — one of India'
 ## 🔧 Side projects
 
 - **[Global Printers](https://globalprinters.in)** — built the web presence for my dad's offset printing business in Bhilwara: portfolio site, local SEO, social setup. [`repo`](https://github.com/si88har1h/global-printers)
-- **[feedforge](https://github.com/si88har1h/feedforge)** — Rust CLI for validating and transforming product feeds (Google Merchant Center, Meta catalog)
+- **[pinterest-scraper-rs](https://github.com/si88har1h/pinterest-scraper-rs)** — Rust port of my older Python Pinterest scraper, async + single-binary
 
 ---
 
