@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/siddharth-mehta-2a9a30213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siddharth@streetstylestore.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://globalprinters.in"><img src="https://img.shields.io/badge/Side%20Project-Global%20Printers-1f6feb?style=flat-square" /></a>
-  <img src="https://komarev.com/ghpvc/?username=si88har1h&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -69,23 +68,6 @@ REST APIs, Redis caching, Docker + GitHub Actions → GHCR → SSH deploys. Expl
 
 - **[Global Printers](https://globalprinters.in)** — built the web presence for my dad's offset printing business in Bhilwara: portfolio site, local SEO, social setup. [`repo`](https://github.com/si88har1h/global-printers)
 - **[pinterest-scraper-rs](https://github.com/si88har1h/pinterest-scraper-rs)** — Rust port of my older Python Pinterest scraper, async + single-binary
-
----
-
-### 📊 GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=si88har1h&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=si88har1h&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=si88har1h&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=si88har1h&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
