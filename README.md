@@ -1,21 +1,48 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="100%" />
-</div>
+# hey, I'm Siddharth 👋
 
+Tech lead @ [Street Style Store](https://streetstylestore.com) — one of India's fast-fashion e-commerce brands. I build the systems that power the store, end to end: storefront, infra, ads automation, and AI pipelines.
 
-### 💫 About Me:
-Hi there! I'm Siddharth, a motivated Software Engineer with a month of professional experience and over six months of enriching internships. Proficient in technologies like ReactJS, PostgreSQL, and Flutter, I'm passionate about leveraging technology to propel businesses forward. I thrive on challenges and have a keen interest in learning how to strategically use technology to scale businesses. Excited about the dynamic world of software development, I bring a fresh perspective and a commitment to continuous learning.
+---
 
+## 🛠 What I work with
 
-## 🌐 Socials:
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/siddharth-mehta-2a9a30213)
+**Frontend**
+- Nuxt 4 · Vue 3 (Composition API) · `@nuxt/ui` v4 · Tailwind · Zod
+- Mobile-first, conversion-focused e-commerce at scale
 
-# 💻 Tech Stack:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /><br/>
+**Backend & infra**
+- Node.js · Express · TypeScript · REST APIs
+- MySQL (`mysql2/promise`) · ClickHouse · Redis caching
+- Docker + GitHub Actions → GHCR → SSH deploys
+- Migrating to message queues (RabbitMQ / Kafka) + Docker Swarm for resilience
+
+**AI & automation**
+- Custom **MCP servers** — Google Merchant Center, Google Ads, Snapchat Ads
+- Instagram **webhook automation** — brand replies, influencer OAuth flows
+- Self-hosted LLM for customer support + DM/comment auto-reply
+- Heavy use of **Claude Code** in dev workflows (feed/catalog pipelines, ops tooling)
+
+**Marketing tech**
+- Google Merchant Center · Google Ads · Snapchat Ads
+- Internal tooling at `mark-tech-2.streetstylestore.com`
+
+---
+
+## 🧠 Currently exploring
+
+- **Rust** — ownership, borrowing, systems-level thinking → see [`feedforge`](https://github.com/si88har1h/feedforge)
+- Self-hosted LLMs — fine-tuning + RAG on domain data
+- Agentic dev workflows with Claude Code + MCP
+
+---
+
+## 🔧 Side projects
+
+- **[Global Printers](https://globalprinters.in)** — built the web presence for my dad's offset printing business in Bhilwara: portfolio site, local SEO, social setup. [`repo`](https://github.com/si88har1h/global-printers)
+- **[feedforge](https://github.com/si88har1h/feedforge)** — Rust CLI for validating and transforming product feeds (Google Merchant Center, Meta catalog)
+
+---
+
+## 📬 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/siddharth-mehta-2a9a30213) · siddharth@streetstylestore.com
