@@ -1,6 +1,6 @@
 # hey, I'm Siddharth 👋
 
-Tech lead @ [Street Style Store](https://streetstylestore.com) — one of India's fast-fashion e-commerce brands. I build the systems that power the store, end to end: storefront, infra, ads automation, and AI pipelines.
+Software engineer on the **Marketing Technology** team at [Street Style Store](https://streetstylestore.com) — one of India's fast-fashion e-commerce brands. I build the internal tools that power the marketing side of the store: ads automation, feed pipelines, AI-assisted ops, and the dashboards that tie them together.
 
 ---
 
@@ -8,13 +8,13 @@ Tech lead @ [Street Style Store](https://streetstylestore.com) — one of India'
 
 **Frontend**
 - Nuxt 4 · Vue 3 (Composition API) · `@nuxt/ui` v4 · Tailwind · Zod
-- Mobile-first, conversion-focused e-commerce at scale
+- Internal dashboards + ops tooling, mobile-friendly
 
 **Backend & infra**
 - Node.js · Express · TypeScript · REST APIs
 - MySQL (`mysql2/promise`) · ClickHouse · Redis caching
 - Docker + GitHub Actions → GHCR → SSH deploys
-- Migrating to message queues (RabbitMQ / Kafka) + Docker Swarm for resilience
+- Exploring message queues (RabbitMQ / Kafka) + Docker Swarm for resilience
 
 **AI & automation**
 - Custom **MCP servers** — Google Merchant Center, Google Ads, Snapchat Ads
