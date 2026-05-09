@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddharth-mehta-2a9a30213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddharthmehta.2301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:siddharth@streetstylestore.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://globalprinters.in"><img src="https://img.shields.io/badge/Side%20Project-Global%20Printers-1f6feb?style=flat-square" /></a>
 </p>
 
 ---
@@ -30,6 +31,8 @@ Internal dashboards + ops tooling, mobile-friendly.
 **Backend & infra**
 
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
@@ -55,18 +58,21 @@ REST APIs, Redis caching, Docker + GitHub Actions → GHCR → SSH deploys. Expl
 
 ---
 
-### 🧠 Currently exploring
+### 📦 Featured projects
 
-- 🦀 **Rust** — ownership, borrowing, systems-level thinking → see [`pinterest-scraper-rs`](https://github.com/si88har1h/pinterest-scraper-rs)
-- 🤖 Self-hosted LLMs — fine-tuning + RAG on domain data
-- 🪄 Agentic dev workflows with Claude Code + MCP
+- 🔍 **[visual-search](https://github.com/si88har1h/visual-search)** — Take a photo, find matching products. FastAPI + CLIP + FAISS + Typesense, sub-millisecond search at e-commerce scale.
+- 🧠 **[recommendation-engine](https://github.com/si88har1h/recommendation-engine)** — Custom ALS-based recommender on raw ClickHouse clickstream. Personalised feed, similar items, viewed-together.
+- 🏷 **[product-tagger](https://github.com/si88har1h/product-tagger)** — Extract structured product attributes from images using Ollama / CLIP / OpenAI / Anthropic. One API, four providers, constrained outputs.
+- 🦀 **[pinterest-scraper-rs](https://github.com/si88har1h/pinterest-scraper-rs)** — Async Rust port of my older Python Pinterest scraper.
+- 🖨 **[global-printers](https://github.com/si88har1h/global-printers)** — Next.js + Tailwind site for my dad's offset printing business in Bhilwara, optimized for local SEO. [Live →](https://globalprinters.in)
 
 ---
 
-### 🔧 Side projects
+### 🧠 Currently exploring
 
-- **[Global Printers](https://globalprinters.in)** — built the web presence for my dad's offset printing business in Bhilwara: portfolio site, local SEO, social setup. [`repo`](https://github.com/si88har1h/global-printers)
-- **[pinterest-scraper-rs](https://github.com/si88har1h/pinterest-scraper-rs)** — Rust port of my older Python Pinterest scraper, async + single-binary
+- 🦀 **Rust** — ownership, borrowing, systems-level thinking
+- 🤖 Self-hosted LLMs — fine-tuning + RAG on domain data
+- 🪄 Agentic dev workflows with Claude Code + MCP
 
 ---
 
